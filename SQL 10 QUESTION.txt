@@ -1,0 +1,20 @@
+
+1.  Write a query to select all customers from a `customers` table with a city of "New York" and order them by their last name in ascending order.
+
+2.  Find the minimum and maximum salary from an `employees` table.
+
+3.  Select the top 5 most expensive products from a `products` table based on their price.
+
+4.  Write a query to count the number of employees in each department from an `employees` table.
+
+5.  Find all orders placed between a specific date range ( January 1st, 2023 to March 31st, 2023) from an `orders` table.
+
+6.  Select all orders where the customer ID is in a specific list [10, 25, 57] from an `orders` table.
+
+7.  Write a query to find the total number of products in each category from a `products` table.
+
+8.  Display all employees who earn a salary greater than a specific amount (e.g., $75,000) from an `employees` table.
+
+9.  Select all orders placed before a specific date (June 1st, 2024) from an `orders` table, limit to the first 10 results.
+
+10. Write a query to count the number of customers from each country in a `customers` table. 
